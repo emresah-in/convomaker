@@ -1,0 +1,26 @@
+{
+  "messages": [
+    { "timestamp": "6.04.2024, 21:44:00", "sender": "Emre", "content": "Merhaba, nasılsın?" },
+    { "timestamp": "6.04.2024, 21:44:10", "sender": "Caner", "content": "İyiyim teşekkürler, sen nasılsın?" },
+    { "timestamp": "6.04.2024, 21:44:20", "sender": "Emre", "content": "Ben de iyiyim. Yarınki toplantı hakkında konuşabilir miyiz?" },
+    { "timestamp": "6.04.2024, 21:44:30", "sender": "Caner", "content": "Tabii ki, hangi konuda yardımcı olabilirim?" },
+    { "timestamp": "6.04.2024, 21:44:40", "sender": "Emre", "content": "Sunum sırası hakkında bir değişiklik yapmamız gerekiyor" },
+    { "timestamp": "6.04.2024, 21:44:50", "sender": "Caner", "content": "Anlıyorum, ne gibi bir değişiklik düşünüyorsun?" },
+    { "timestamp": "6.04.2024, 21:45:00", "sender": "Emre", "content": "Benim sunumumu öne almamız gerekiyor, çünkü öğleden sonra başka bir toplantım var" },
+    { "timestamp": "6.04.2024, 21:45:10", "sender": "Caner", "content": "Tamam, bu sorun değil. Ben de kendi sunumumu öğleden sonraya alabilirim" },
+    { "timestamp": "6.04.2024, 21:45:20", "sender": "Emre", "content": "Harika, çok teşekkür ederim!" },
+    { "timestamp": "6.04.2024, 21:45:30", "sender": "Caner", "content": "Rica ederim. Başka değişiklik gerekiyor mu?" },
+    { "timestamp": "6.04.2024, 21:45:40", "sender": "Emre", "content": "Aslında bir konu daha var" },
+    { "timestamp": "6.04.2024, 21:45:50", "sender": "Caner", "content": "Nedir?" },
+    { "timestamp": "6.04.2024, 21:46:00", "sender": "Emre", "content": "Sunumda kullanacağımız template'i güncelledim" },
+    { "timestamp": "6.04.2024, 21:46:10", "sender": "Caner", "content": "Yeni versiyonu bana gönderebilir misin?" },
+    { "timestamp": "6.04.2024, 21:46:20", "sender": "Emre", "content": "Tabii ki, hemen mail atıyorum" },
+    { "timestamp": "6.04.2024, 21:46:30", "sender": "Caner", "content": "Teşekkürler, kontrol edeceğim" },
+    { "timestamp": "6.04.2024, 21:46:40", "sender": "Emre", "content": "Bu arada, toplantıya katılacak yeni bir ekip üyemiz var" },
+    { "timestamp": "6.04.2024, 21:46:50", "sender": "Caner", "content": "Oh, kim katılıyor?" },
+    { "timestamp": "6.04.2024, 21:47:00", "sender": "Emre", "content": "Yazılım ekibinden Ahmet, projeye yeni dahil oldu" },
+    { "timestamp": "6.04.2024, 21:47:10", "sender": "Caner", "content": "Anladım, ona da hoş geldin deriz yarın" }
+  ],
+  "currentUser": "Emre",
+  "contactName": "Caner"
+}

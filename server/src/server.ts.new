@@ -1,0 +1,12 @@
+// TEST FILE
+import express, { Request, Response } from 'express';
+import puppeteer from 'puppeteer';
+
+const app = express();
+app.get('/test', (req, res) => {
+    res.send('Test OK');
+});
+
+app.listen(3001, () => {
+    console.log('Test server running');
+});
